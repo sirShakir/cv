@@ -1,0 +1,25 @@
+{
+  "name": "opencv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "image-diff": "^2.0.0",
+    "img-diff-js": "^0.4.1",
+    "looks-same": "^7.2.1",
+    "motion-detect": "^0.2.5",
+    "opencv4nodejs": "^5.1.0",
+    "pixelmatch": "^5.0.2",
+    "pngjs": "^3.4.0",
+    "pug": "^2.0.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
