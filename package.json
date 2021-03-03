@@ -13,7 +13,7 @@
     "opencv4nodejs": "^5.1.0",
     "pixelmatch": "^5.0.2",
     "pngjs": "^3.4.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {},
